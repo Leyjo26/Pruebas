@@ -1,0 +1,6 @@
+2026-02-18 08:58:14.851800: Iniciando. Usando DB: C:\Users\pasante_informatica\Desktop\Testeo\biblioteca_master_v3.db
+2026-02-18 08:58:15.798706: Usuario admin verificado.
+2026-02-18 08:58:33.280676: Intento de login desde HTML: Valencia | Password len: 11
+2026-02-18 08:58:33.281178: Verificando usuario: Valencia
+2026-02-18 08:58:33.282165: Credenciales correctas. Iniciando dashboard...
+2026-02-18 08:58:36.116769: DashboardApi: Enviando datos iniciales para usuario Valencia
